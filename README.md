@@ -1,14 +1,3 @@
-## Hi there 👋
-
-<!--
-**adityaars2002/adityaars2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a college student
-- 🌱 I’m currently learning android developement
-- 👯 I’m looking to collaborate on android projects
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.aditya01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/the-aditya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaars2002@gmail.com) 
